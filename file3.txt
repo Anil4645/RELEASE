@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 <h1> Hi this is git file </h1>
+=======
+hi this is 3rd git file
+>>>>>>> feature
